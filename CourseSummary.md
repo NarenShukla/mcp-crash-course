@@ -7,12 +7,12 @@ A comprehensive overview of the **Model Context Protocol (MCP)** — its archite
 
 ## Table of Contents
 
-- [Architecture](#-mcp-architecture)
-- [Ecosystem](#-mcp-ecosystem)
-- [APIs, CLIs & Libraries](#-apis-clis--libraries)
-- [MCP Servers](#-mcp-servers)
-- [Drawbacks](#-mcp-drawbacks)
-- [Anthropic Agent Skills](#-anthropic-agent-skills)
+- [Architecture](#mcp-architecture)
+- [Ecosystem](#mcp-ecosystem)
+- [APIs, CLIs & Libraries](#apis-clis--libraries)
+- [MCP Servers](#mcp-servers)
+- [Drawbacks](#mcp-drawbacks)
+- [Anthropic Agent Skills](#anthropic-agent-skills)
 
 ---
 
